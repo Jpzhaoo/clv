@@ -10,7 +10,7 @@ color_primary <- "#78c2ad"
 
 ui <- shiny::navbarPage(
     footer = tagList(
-        "JP出品"
+        "Jinping Zhao"
     ),
     
     title = '客户生命周期价值',
